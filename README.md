@@ -18,7 +18,7 @@ Hasilnya kalau mau diringkas: data harga BBCA di level aslinya bukan white noise
 Notebook-nya sudah dijalankan semua jadi outputnya (plot, angka uji) sudah kelihatan tanpa perlu run ulang. Kalau mau run ulang sendiri tinggal install dulu library-nya:
 
 ```bash
-pip install pandas numpy matplotlib statsmodels
+pip install -r requirements.txt
 ```
 
 terus run all cell aja, csv-nya sudah satu folder sama notebook-nya jadi nggak perlu ganti path.
