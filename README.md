@@ -16,5 +16,3 @@ Menjalankan ulang:
 pip install -r requirements.txt
 ```
 File CSV berada satu folder dengan notebook, sehingga path tidak perlu diubah.
-
-Catatan: kolom Nama, NIM, dan Kelas pada cell pertama notebook tugas masih placeholder, harus diisi sebelum dikumpulkan.
