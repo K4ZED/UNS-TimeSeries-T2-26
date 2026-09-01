@@ -22,5 +22,3 @@ pip install -r requirements.txt
 ```
 
 terus run all cell aja, csv-nya sudah satu folder sama notebook-nya jadi nggak perlu ganti path.
-
-Satu hal yang belum aku isi: nama, NIM, sama kelas di cell paling atas notebook tugas masih placeholder, harus diisi manual sebelum dikumpulkan.
